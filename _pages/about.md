@@ -11,8 +11,7 @@ I am a second-year master's student in `Electrical Engineering` and `Computer En
 
 Before joining WashU, I worked as a research intern in [Lenovo Research](https://research.lenovo.com/webapp/view_English/researchField.html), Shanghai, China, where I developed deep learning algorithms to solve computer vision problems in industrial scenarios and built container-based systems to optimize machine learning workflows.
 
-Research
-==========
+
 
 ## Fast GNN Inference on Multi-Core Systems
 
@@ -24,10 +23,7 @@ Paper accepted by [IPDPS 2025 Workshops](https://www.ipdps.org/ipdps2025/2025-wo
 ## Machine Learning
 
 
-Projects
-==========
 
-## Computer Vision Based Data Analysis Software
 
 
 
