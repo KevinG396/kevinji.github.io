@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Binglin Ji"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "Building efficient and intelligent ML systems."
   location         : "STL, MO"
   employer         : "WashU"
