@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Binglin Ji"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/his"  
+  bio              : "Building efficient and intelligent ML systems."
   location         : "STL, MO"
-  employer         : "[WashU](https://washu.edu)"
+  employer         : "WashU"
   uri              : # URL
   email            : "binglin.j@wustl.edu" 
 
