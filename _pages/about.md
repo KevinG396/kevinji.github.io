@@ -18,7 +18,7 @@ Existing standard Graph Neural Network (GNN) libraries face challenges in perfor
 Paper accepted by [IPDPS 2025 Workshops](https://www.ipdps.org/ipdps2025/2025-workshops.html)
 
 
-Machine Learning
+## Machine Learning
 ======
 
 
