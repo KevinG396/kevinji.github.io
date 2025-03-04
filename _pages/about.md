@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Binglin Ji"
+title: "Binglin (Kevin) Ji"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,8 @@ redirect_from:
 [Washington University in St. Louis](https://washu.edu)
 
 I'm a second year master student in [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advised by Prof. [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/). My research interests lie in `machine learning` (particularly Bayesian inversion problems) and `computer systems` (particularly general-purpose processor performance optimization), as well as the intersection of these two areas.
+
+Before joining WashU, I worked as a research intern in [Lenovo Research](https://research.lenovo.com/webapp/view_English/researchField.html), Shanghai, China. 
 
 GNN Inference on Multi-Core Systems
 ======
