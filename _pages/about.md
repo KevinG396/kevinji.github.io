@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Binglin (Kevin) Ji, a second-year master's student in `Electrical Engineering` and `Computer Engineering` at [Washington University in St. Louis](https://washu.edu). I'm a member of [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advised by Prof. [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/). My research interests lie in `Machine Learning` (particularly Bayesian Inversion problems) and `Parallel Computing` (particularly AI Kernel Performance Optimization), as well as the intersection of these two areas. 
+I'm Binglin (Kevin) Ji, a second-year master's student in `Electrical Engineering` and `Computer Engineering` at [Washington University in St. Louis](https://washu.edu). I'm a member of [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advised by Prof. [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/). My research interests lie in `Machine Learning` (particularly Bayesian Inversion problems) and `Parallel Computing` (particularly AI Kernel Optimization), as well as the intersection of these two areas. 
 
 Before joining WashU, I worked in [Lenovo Research](https://research.lenovo.com/webapp/view_English/home.html), Shanghai, China, where I developed deep learning algorithms to solve computer vision problems in industrial scenarios and built container-based systems to optimize machine learning workflows.
 
