@@ -20,10 +20,12 @@ Existing standard Graph Neural Network (GNN) libraries face challenges in perfor
 
 
 
-## Machine Learning
 
+## Past Project
+#### Computer Vision Based Sports Motion Analysis System
+Computer vision is increasingly being adopted in sports motion analysis. However, widely used systems like Dartfish rely on traditional computer vision algorithms, requiring extensive manual calibration for quantitative metrics and often resulting in significant errors. We have developed an intelligent analysis system with deep learning based 2D and 3D human pose estimation algorithms. Users simply need to upload raw videos, and the system will compute sequence data of multiple key quantitative indicators and conduct a comprehensive analysis.
 
-
+Invention Patent: CN202110916792.7
 
 
 
