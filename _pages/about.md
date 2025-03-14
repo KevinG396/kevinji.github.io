@@ -17,7 +17,7 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 
 Existing standard Graph Neural Network (GNN) libraries face challenges in performance and scalability on modern multi-core systems, especially for large graphs (more than 100,000 vertices) with heavy embeddings. We optimized GNN inference with different parallel strategies according to the properties of input graphs, considering the design trends of multi-core architectures. As a result, we achieved up to 2.64x inference speed compared to DGL(Deep Graph Library) v2.4.0 and 3.36x compared to PyG(PyTorch-Geometric) v2.6.1, both used PyTorch v2.3.1 as backend.
 
-![FGI Speedup Comparison](images/FGI_speedup.png)
+![FGI Speedup Comparison](FGI_speedup.png)
 
 
 
