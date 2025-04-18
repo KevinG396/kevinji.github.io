@@ -20,6 +20,8 @@ Existing standard Graph Neural Network (GNN) libraries face challenges in perfor
 
 
 
+#### 🎧 Outside of research, I enjoy Rock Music
+You should check this out — one of my all-time favorites: [Bon Jovi - Livin' on a Prayer (Hyde Park 2011)](https://www.youtube.com/watch?v=keZ0vigZz3Y)
 
 <!-- ## Past Project
 ### Computer Vision Based Sports Motion Analysis System
