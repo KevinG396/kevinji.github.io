@@ -12,6 +12,10 @@ I'm Binglin (Kevin) Ji, a second-year master's student in `Electrical Engineerin
 Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.com/webapp/view_English/home.html), Shanghai, China, where I developed deep learning algorithms to solve computer vision problems in industrial scenarios and built container-based systems to optimize machine learning workflows.
 
 
+## Online Feedback Active Target Discovery
+
+Coming soon.
+
 
 ## Fast GNN Inference on Multi-Core Systems
 
