@@ -17,7 +17,7 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 Coming soon.
 
 
-## Optimizing GCN Inference on Modern Multi-Core Systems
+## Optimizing GCN Inference on Multi-Core Systems
 
 Existing standard Graph Neural Network (GNN) libraries face challenges in performance and scalability on modern multi-core systems, especially for large graphs (more than 100,000 vertices) with heavy embeddings. We optimized Graph Convolutional Network (GCN) inference with different parallel strategies according to the properties of input graphs, considering the design trends of multi-core architectures. As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend.
 
