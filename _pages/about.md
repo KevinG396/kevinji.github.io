@@ -21,7 +21,7 @@ In various scientific and engineering domains, where data acquisition is costlyâ
 
 Existing standard Graph Neural Network (GNN) libraries face challenges in performance and scalability on modern multi-core systems, especially for large graphs (more than 100,000 vertices) with heavy embeddings. We optimized Graph Convolutional Network (GCN) inference with different parallel strategies according to the properties of input graphs, considering the design trends of multi-core architectures. As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend.
 
-Paper published in [IPDPS Workshops](https://ieeexplore.ieee.org/document/11105982).
+More details in our paper: [FGI: Fast GNN Inference on Multi-Core Systems (IPDPS 2025 Workshops)](https://ieeexplore.ieee.org/document/11105982).
 
 
 
