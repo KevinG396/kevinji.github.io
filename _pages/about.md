@@ -16,9 +16,9 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 <tr>
 <td width="50%" valign="top">
 
-# AI Inference Acceleration
+## AI Inference Acceleration
 
-## Optimizing GCN Inference on Multi-Core Systems
+### Optimizing GCN Inference on Multi-Core Systems
 
 Existing standard Graph Neural Network (GNN) libraries face challenges in performance and scalability on modern multi-core systems, especially for large graphs (more than 100,000 vertices) with heavy embeddings.  
 
@@ -31,9 +31,9 @@ More details in our paper: [FGI: Fast GNN Inference on Multi-Core Systems (IPDPS
 </td>
 <td width="50%" valign="top">
 
-# Generative Modeling
+## Generative Modeling
 
-## Diffusion Guided Online Active Target Discovery
+### Diffusion Guided Online Active Target Discovery
 
 In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget.  
 
