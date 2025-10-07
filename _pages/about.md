@@ -14,7 +14,7 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 
 ## Diffusion Guided Online Active Target Discovery
 
-In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget. We introduce a novel framework that leverages diffusion dynamics for active target discovery.
+In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget. We introduce a novel framework that leverages diffusion dynamics for active target discovery under partially observable environment.
 
 
 ## Optimizing GCN Inference on Multi-Core Systems
