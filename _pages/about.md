@@ -16,14 +16,7 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 <tr>
 <td width="50%" valign="top">
 
-## Diffusion Guided Online Active Target Discovery
-
-In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget.  
-
-We introduce a novel framework that leverages diffusion dynamics for active target discovery under partially observable environment.
-
-</td>
-<td width="50%" valign="top">
+# AI Inference Acceleration
 
 ## Optimizing GCN Inference on Multi-Core Systems
 
@@ -34,6 +27,17 @@ We optimized Graph Convolutional Network (GCN) inference with different parallel
 As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend.  
 
 More details in our paper: [FGI: Fast GNN Inference on Multi-Core Systems (IPDPS Workshops)](https://ieeexplore.ieee.org/document/11105982)
+
+</td>
+<td width="50%" valign="top">
+
+# Generative Modeling
+
+## Diffusion Guided Online Active Target Discovery
+
+In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget.  
+
+We introduce a novel framework that leverages diffusion dynamics for active target discovery under partially observable environment.
 
 </td>
 </tr>
