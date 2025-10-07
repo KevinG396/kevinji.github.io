@@ -12,9 +12,9 @@ I'm Binglin (Kevin) Ji, a second-year master's student in `Electrical Engineerin
 Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.com/webapp/view_English/home.html), Shanghai, China, where I developed deep learning algorithms to solve computer vision problems in industrial scenarios and built container-based systems to optimize machine learning workflows.
 
 
-## Online Feedback Active Target Discovery
+## Diffusion Guided Online Active Target Discovery
 
-In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget. We introduce a novel method that leverages diffusion dynamics for active target discovery.
+In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget. We introduce a novel framework that leverages diffusion dynamics for active target discovery.
 
 
 ## Optimizing GCN Inference on Multi-Core Systems
