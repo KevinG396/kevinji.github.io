@@ -12,36 +12,18 @@ I'm Binglin (Kevin) Ji, a second-year master's student in `Electrical Engineerin
 Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.com/webapp/view_English/home.html), Shanghai, China, where I developed deep learning algorithms to solve computer vision problems in industrial scenarios and built container-based systems to optimize machine learning workflows.
 
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Diffusion Guided Online Active Target Discovery
 
-## AI Inference Acceleration
+In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget. We introduce a novel framework that leverages diffusion dynamics for active target discovery under partially observable environment.
 
-### Optimizing GCN Inference on Multi-Core Systems
 
-Existing standard Graph Neural Network (GNN) libraries face challenges in performance and scalability on modern multi-core systems, especially for large graphs (more than 100,000 vertices) with heavy embeddings.  
+## Optimizing GCN Inference on Multi-Core Systems
 
-We optimized Graph Convolutional Network (GCN) inference with different parallel strategies according to the properties of input graphs, considering the design trends of multi-core architectures.  
-
-As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend.  
+Existing standard Graph Neural Network (GNN) libraries face challenges in performance and scalability on modern multi-core systems, especially for large graphs (more than 100,000 vertices) with heavy embeddings. We optimized Graph Convolutional Network (GCN) inference with different parallel strategies according to the properties of input graphs, considering the design trends of multi-core architectures. As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend.  
 
 More details in our paper: [FGI: Fast GNN Inference on Multi-Core Systems (IPDPS Workshops)](https://ieeexplore.ieee.org/document/11105982)
 
-</td>
-<td width="50%" valign="top">
 
-## Generative Modeling
-
-### Diffusion Guided Online Active Target Discovery
-
-In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget.  
-
-We introduce a novel framework that leverages diffusion dynamics for active target discovery under partially observable environment.
-
-</td>
-</tr>
-</table>
 
 
 
