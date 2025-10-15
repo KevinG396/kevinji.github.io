@@ -16,6 +16,8 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 
 In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions is essential to maximize target discovery within a limited sampling budget. We introduce a novel framework that leverages diffusion dynamics for active target discovery under partially observable environment.
 
+Project Page: [Diffusion-guided Active Target Discovery](https://github.com/KevinG396/DiffATD/tree/main)
+
 More details in our paper: [Online Feedback Efficient Active Target Discovery in Partially Observable Environments](https://www.arxiv.org/abs/2505.06535)
 
 
