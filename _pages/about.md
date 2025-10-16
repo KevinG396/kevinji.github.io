@@ -29,7 +29,7 @@ In various scientific and engineering domains, where data acquisition is costly�
 
 Existing standard GNN libraries face challenges in performance and scalability on modern multi-core systems, especially for large graphs (more than 100,000 vertices) with heavy embeddings. We optimized GCN inference with different parallel strategies according to the graph properties, considering the design trends of multi-core architectures. As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend.   
 
-More details in our paper: FGI: Fast GNN Inference on Multi-Core Systems 🚀 ***(IPDPS Workshops)*** [![DOI](https://img.shields.io/badge/DOI-10.1109-blue)](https://sbs.wustl.edu/pubs/jzc25.pdf)
+More details in our paper: [FGI: Fast GNN Inference on Multi-Core Systems](https://sbs.wustl.edu/pubs/jzc25.pdf) 🚀 ***(IPDPS Workshops)*** 
 
 
 
