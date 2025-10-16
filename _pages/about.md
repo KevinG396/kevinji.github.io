@@ -18,13 +18,11 @@ In various scientific and engineering domains, where data acquisition is costly�
 
 #### 1. Diffusion-guided Active Target Discovery
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)  With enough domain knowledge data, we introduce DiffATD to solve Online Feedback Active Target Discovery problem in Partially Observable Environments.
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)  With enough domain knowledge data, we introduce DiffATD to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper: [Online Feedback Efficient Active Target Discovery in Partially Observable Environments](https://www.arxiv.org/abs/2505.06535)
 
 #### 2. Active Target Discovery under Uninformative Prior  
 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we introduce a novel method -- EM-PTDM -- to solve this problem.
-
-More details in our paper: [Online Feedback Efficient Active Target Discovery in Partially Observable Environments](https://www.arxiv.org/abs/2505.06535)
 
 
 ## ⚙️ Optimizing GCN Inference on Multi-Core Systems
