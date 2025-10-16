@@ -17,9 +17,13 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 In various scientific and engineering domains, where data acquisition is costly—such as in medical imaging, environmental monitoring, or remote sensing—strategic sampling from unobserved regions is essential to maximize target discovery within a limited sampling budget. We introduce novel frameworks that leverage diffusion dynamics for active target discovery under partially observable environment.
 
 Projects:
-1. ### Diffusion-guided Active Target Discovery[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)
+##### Diffusion-guided Active Target Discovery    [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)
+
 With enough domain knowledge data, we introduce DiffATD to solve Online Feedback Active Target Discovery problem in Partially Observable Environments.
-3. [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)[Active Target Discovery under Uninformative Prior](https://github.com/KevinG396/EM_PTDM): With zero domain knowledge, inspired by neuro-science, we introduce a novel method -- EM-PTDM -- to solve this problem.
+
+##### Active Target Discovery under Uninformative Prior    [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)
+
+With zero domain knowledge, inspired by neuro-science, we introduce a novel method -- EM-PTDM -- to solve this problem.
 
 More details in our paper: [Online Feedback Efficient Active Target Discovery in Partially Observable Environments](https://www.arxiv.org/abs/2505.06535)
 
