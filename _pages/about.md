@@ -12,17 +12,17 @@ I'm Binglin (Kevin) Ji, a second-year master's student in `Electrical Engineerin
 Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.com/webapp/view_English/home.html), Shanghai, China, where I developed deep learning algorithms to solve computer vision problems in industrial scenarios and built container-based systems to optimize machine learning workflows.
 
 
-## 🔍 Diffusion Guided Online Active Target Discovery
+## 🔍 Online Active Target Discovery with Generative Model
 
 In various scientific and engineering domains, where data acquisition is costly, strategic sampling from unobserved regions is essential to maximize target discovery within a limited sampling budget. We introduce novel frameworks that leverage diffusion dynamics for active target discovery.
 
-### 1. Diffusion-guided Active Target Discovery
-
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)  With enough domain knowledge data, we introduce DiffATD to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper: [***Online Feedback Efficient Active Target Discovery in Partially Observable Environments***](https://www.arxiv.org/abs/2505.06535) **(arXiv)**
-
-### 2. Active Target Discovery under Uninformative Prior  
+### Active Target Discovery under Uninformative Prior  
 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we introduce a novel method -- EM-PTDM -- to solve this problem. More details in our paper: ***Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory*** **(arXiv)**
+
+### Diffusion-guided Active Target Discovery
+
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)  With enough domain knowledge data, we introduce DiffATD to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper: [***Online Feedback Efficient Active Target Discovery in Partially Observable Environments***](https://www.arxiv.org/abs/2505.06535) **(arXiv)**
 
 
 ## ⚙️ Optimizing GCN Inference on Multi-Core Systems
