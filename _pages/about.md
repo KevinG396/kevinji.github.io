@@ -14,7 +14,7 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 
 ## 🔍 Online Active Target Discovery with Generative Model
 
-In various scientific and engineering domains, where data acquisition is costly, strategic sampling from unobserved regions is essential to maximize target discovery within a limited sampling budget. We introduce novel frameworks that leverage diffusion dynamics for active target discovery.
+In various scientific and engineering domains, where data acquisition is costly, strategic sampling from unobserved regions is essential to maximize target discovery within a limited sampling budget. We introduce novel frameworks that leverage diffusion dynamics for Active Target Discovery(*ATD*).
 
 ### Active Target Discovery under Uninformative Prior  
 
