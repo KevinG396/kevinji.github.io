@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jbl1.jpg" #"IMG_8036.jpeg"
+  avatar           : "IMG_8036.jpeg"
   name             : "Binglin Ji"
   pronouns         : #"he/his"  
   bio              : "Building efficient and intelligent AI systems."
