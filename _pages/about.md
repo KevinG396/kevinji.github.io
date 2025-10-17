@@ -18,11 +18,11 @@ In various scientific and engineering domains, where data acquisition is costly,
 
 ### Active Target Discovery under Uninformative Prior  
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we introduce a novel method, EM-PTDM, to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper: ***Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory*** **(arXiv)**
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we introduce a novel method, EM-PTDM, to solve the online feedback ATD problem. More details in our paper: ***Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory*** **(arXiv)**
 
 ### Diffusion-guided Active Target Discovery
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)  With enough domain knowledge data, we introduce DiffATD to solve this problem. More details in our paper: [***Online Feedback Efficient Active Target Discovery in Partially Observable Environments***](https://www.arxiv.org/abs/2505.06535) **(arXiv)**
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)  With enough domain knowledge data, we first time introduce DiffATD to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper: [***Online Feedback Efficient Active Target Discovery in Partially Observable Environments***](https://www.arxiv.org/abs/2505.06535) **(arXiv)**
 
 
 ## ⚙️ Optimizing GCN Inference on Multi-Core Systems
