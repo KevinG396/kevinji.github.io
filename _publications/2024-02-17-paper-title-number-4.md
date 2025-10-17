@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "FGI: Fast GNN Inference on Multi-Core Systems"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-fgi-ipdpsw
+excerpt: ""
+date: 2025-05-29
+venue: "IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2025"
+paperurl: "https://ieeexplore.ieee.org/document/11105982"
+citation: 'B. Ji, C. Zhao and R. D. Chamberlain, "FGI: Fast GNN Inference on Multi-Core Systems," 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Milano, Italy, 2025, pp. 748-757, doi: 10.1109/IPDPSW66978.2025.00119. keywords: {Distributed processing;Multicore processing;Graph convolutional networks;Scalability;Conferences;Computer architecture;Libraries;graph neural network;graph convolutional network;multi-core},'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
