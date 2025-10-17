@@ -18,7 +18,7 @@ In various scientific and engineering domains, where data acquisition is costly,
 
 ### Active Target Discovery under Uninformative Prior  
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we introduce a novel method -- EM-PTDM -- to solve this problem. More details in our paper: ***Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory*** **(arXiv)**
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we introduce a novel method, EM-PTDM, to solve this problem. More details in our paper: ***Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory*** **(arXiv)**
 
 ### Diffusion-guided Active Target Discovery
 
