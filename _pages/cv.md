@@ -17,9 +17,8 @@ Education
 Work experience
 ======
 * Lenovo Research
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Computer Vision for Industry
+  * MLOps
 
 Skills
 ======
@@ -29,10 +28,13 @@ Skills
   * Diffusion Model
   * Adversarial AI
   * Large-Scale Optimization
-* Computer System
+* High Performance Computing
   * System Architecture
   * Parallel Computing (OpenMP)
   * Container (Docker)
+* Database
+  * Snowflake
+  * Apache Airflow
 
 Publications
 ======
