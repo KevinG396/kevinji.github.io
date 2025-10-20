@@ -32,7 +32,7 @@ Skills
   * System Architecture
   * Parallel Computing (OpenMP)
   * Container (Docker)
-* Database
+* Distributed Data Pipeline
   * Snowflake
   * Apache Airflow
 
