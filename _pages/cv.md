@@ -30,6 +30,7 @@ Skills
   * Large-Scale Optimization
 * High Performance Computing
   * System Architecture
+  * Sparse Matrix Computation
   * Parallel Computing (OpenMP)
   * Container (Docker)
 * Distributed Data Pipeline
