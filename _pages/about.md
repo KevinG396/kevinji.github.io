@@ -14,7 +14,7 @@ Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.co
 
 ## 🔍 Online Active Target Discovery with Generative Model
 
-Strategic sampling within a limited sampling budget from unobserved regions is essential in various scientific and engineering domains. We model this problem as Active Target Discovery(*ATD*) and introduce novel frameworks that leverage diffusion dynamics *ATD*.
+Strategic sampling within a limited sampling budget from unobserved regions is essential in various scientific and engineering domains. We model this problem as Active Target Discovery(*ATD*) and introduce novel frameworks that leverage diffusion dynamics to solve *ATD* problems.
 
 ### Active Target Discovery under Uninformative Prior  
 
