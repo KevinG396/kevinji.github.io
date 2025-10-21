@@ -33,7 +33,7 @@ Skills
   * Sparse Matrix Computation
   * Parallel Computing (OpenMP)
   * Container (Docker)
-* Distributed Data Pipeline
+* Data Engineering
   * Snowflake
   * Apache Airflow
 
