@@ -32,7 +32,7 @@ Skills
   * System Architecture
   * Sparse Matrix Computation
   * Parallel Computing (OpenMP)
-  * Container (Docker)
+  * Docker
 * Data Engineering
   * Snowflake
   * Apache Airflow
