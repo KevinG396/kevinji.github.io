@@ -6,6 +6,6 @@ permalink: /publication/2025-em_ptdm-neurips
 excerpt: ""
 date: 2025-9-18
 venue: "arXiv"
-paperurl: ""
+paperurl: "https://arxiv.org/abs/2510.16676"
 
 ---
