@@ -36,6 +36,7 @@ Skills
 * Data Engineering
   * Snowflake
   * Apache Airflow
+  * Apache Spark
 
 Publications
 ======
