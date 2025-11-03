@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-diffatd-neurips
 excerpt: ""
 date: 2025-9-18
-venue: "arXiv"
+venue: "NeurIPS 2025"
 paperurl: "https://www.arxiv.org/abs/2505.06535"
 
 ---
