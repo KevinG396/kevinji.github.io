@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Engineering, Washington University, 2024
-* M.S. in Electrical Engineering, Washington University, 2023
+* M.S. in Computer Engineering, Washington University, 2024.01 ~ 2025.12
+* M.S. in Electrical Engineering, Washington University, 2023.09 ~ 2025.06
 
 Work experience
 ======
