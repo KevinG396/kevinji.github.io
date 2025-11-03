@@ -2,7 +2,7 @@
 title: "Online Feedback Efficient Active Target Discovery in Partially Observable Environments"
 collection: publications
 category: conferences
-permalink: /publication/2025-diffatd-neurips
+permalink: https://neurips.cc/virtual/2025/loc/san-diego/poster/116694
 excerpt: ""
 date: 2025-9-18
 venue: "NeurIPS"
