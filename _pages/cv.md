@@ -31,7 +31,7 @@ Skills
 * High Performance Computing
   * [System Architecture](https://github.com/KevinG396/Architecture-Sim-with-gem5)
   * Sparse Matrix Computation
-  * Parallel Computing (OpenMP)
+  * [Parallel Computing (OpenMP)](https://ieeexplore.ieee.org/document/11105982)
   * Docker
 * Data Engineering
   * Apache Airflow
