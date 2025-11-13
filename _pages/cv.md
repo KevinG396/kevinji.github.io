@@ -29,7 +29,7 @@ Skills
   * [Adversarial AI](https://github.com/KevinG396/Adversarial_AI)
   * Large-Scale Optimization
 * High Performance Computing
-  * System Architecture
+  * [System Architecture](https://github.com/KevinG396/Architecture-Sim-with-gem5)
   * Sparse Matrix Computation
   * Parallel Computing (OpenMP)
   * Docker
