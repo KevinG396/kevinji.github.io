@@ -26,7 +26,7 @@ Skills
   * Machine Learning and Deep Learning
   * Computer Vision
   * Diffusion Model
-  * Adversarial AI
+  * [Adversarial AI](https://github.com/KevinG396/Adversarial_AI)
   * Large-Scale Optimization
 * High Performance Computing
   * System Architecture
