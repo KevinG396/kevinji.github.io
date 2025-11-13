@@ -34,9 +34,9 @@ Skills
   * Parallel Computing (OpenMP)
   * Docker
 * Data Engineering
-  * Distributed OLAP Database (Snowflake)
   * Apache Airflow
   * Apache Spark
+  * Distributed OLAP Database (Snowflake)
 
 Publications
 ======
