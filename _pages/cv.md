@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Washington University in St. Louis
-  * M.S. in **Computer Engineering**, 2024.01 ~ 2025.12
-  * M.S. in **Electrical Engineering**, (GPA 4.0/4.0), 2023.09 ~ 2025.06
+  * M.S. in **Computer Engineering**, 01/2024 ~ 12/2025
+  * M.S. in **Electrical Engineering**, (GPA 4.0/4.0), 09/2023 ~ 06/2025
 
 Work experience
 ======
