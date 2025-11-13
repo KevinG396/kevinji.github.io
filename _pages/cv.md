@@ -18,7 +18,7 @@ Work experience
 ======
 * Lenovo Research
   * Computer Vision for Industry
-  * MLOps
+  * ML Ops
 
 Skills
 ======
