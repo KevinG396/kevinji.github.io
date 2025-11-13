@@ -48,3 +48,9 @@ Publications
 Service and leadership
 ======
 * Subreviewer of NeurIPS 2024
+
+
+Past Projects
+======
+* Deep Learning–based Video Segmentation
+* 2D/3D Human Pose Estimation
