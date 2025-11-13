@@ -36,7 +36,7 @@ Skills
 * Data Engineering
   * Apache Airflow
   * Apache Spark
-  * Distributed OLAP Database (Snowflake)
+  * Distributed Database (Snowflake)
 
 Publications
 ======
