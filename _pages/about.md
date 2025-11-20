@@ -25,7 +25,7 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)  With enough domain knowledge data, we first time introduce *DiffATD* to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper: [**Online Feedback Efficient Active Target Discovery in Partially Observable Environments**](https://www.arxiv.org/abs/2505.06535) ***(NeurIPS 2025)*** 🚀
 
 <p align="center">
-  <img src="/assets/imgs/diffatd.png" width="10%">
+  <img src="/assets/imgs/diffatd.png" width="20%">
 </p>
 
 ## ⚙️ Optimizing GCN Inference on Multi-Core Systems
