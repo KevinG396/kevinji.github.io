@@ -24,7 +24,7 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 30%; text-align: center;">
-    <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/diffatd.png" style="width: 100%; border-radius: 6px;">
+    <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/diffatd.png" style="width: 10%; border-radius: 6px;">
   </div>
   <div style="flex: 1; margin-left: 15px;">
     <p>
