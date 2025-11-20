@@ -7,5 +7,4 @@ excerpt: ""
 date: 2025-9-18
 venue: "Conference on Neural Information Processing Systems (NeurIPS)"
 paperurl: "https://www.arxiv.org/abs/2505.06535"
-image: /assets/imgs/diffatd.png
 ---
