@@ -34,7 +34,7 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 
 More details in our paper: [**FGI: Fast GNN Inference on Multi-Core Systems**](https://sbs.wustl.edu/pubs/jzc25.pdf) ***(IPDPS 2025 Workshops)*** 🚀
 
-<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/fgi.png" width="75%"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/fgi.png" width="78%"> </p>
 
 
 
