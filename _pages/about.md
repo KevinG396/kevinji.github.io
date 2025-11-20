@@ -22,18 +22,9 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 
 ### Diffusion-guided Active Target Discovery
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 0 0 30%; text-align: center;">
-    <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/diffatd.png" style="width: 10%; border-radius: 6px;">
-  </div>
-  <div style="flex: 1; margin-left: 15px;">
-    <p>
-      [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD)  
-      With enough domain knowledge data, we first time introduce <em>DiffATD</em> to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper:  
-      <strong><a href="https://www.arxiv.org/abs/2505.06535">Online Feedback Efficient Active Target Discovery in Partially Observable Environments</a></strong> <em>(NeurIPS 2025)</em> 🚀
-    </p>
-  </div>
-</div>
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD) With enough domain knowledge data, we first time introduce *DiffATD* to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper: [**Online Feedback Efficient Active Target Discovery in Partially Observable Environments**](https://www.arxiv.org/abs/2505.06535) ***(NeurIPS 2025)*** 🚀 
+
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/diffatd.png" width="50%"> </p>
 
 ## ⚙️ Optimizing GCN Inference on Multi-Core Systems
 
