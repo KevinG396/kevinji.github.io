@@ -13,11 +13,13 @@ Education
 ======
 * Washington University in St. Louis
   * M.S. in **Computer Engineering**, 01/2024 ~ 12/2025
-  * M.S. in **Electrical Engineering** (GPA 4.0/4.0), 09/2023 ~ 06/2025
+  * M.S. in **Electrical Engineering**, 09/2023 ~ 06/2025
+* Xidian University
+  * B.S. in **Electronic and Information Engineering**, 09/2018 ~ 06/2022
 
 Work experience
 ======
-* Lenovo Research
+* Lenovo Research, 2022 ~ 2023
   * Computer Vision for Industry
   * ML Ops
 
