@@ -15,7 +15,7 @@ Education
   * M.S. in **Computer Engineering**, 01/2024 ~ 12/2025
   * M.S. in **Electrical Engineering**, 09/2023 ~ 06/2025
 * Xidian University
-  * B.S. in **Electronic and Information Engineering**, 09/2018 ~ 06/2022
+  * B.E. in **Electronic and Information Engineering**, 09/2018 ~ 06/2022
 
 Work experience
 ======
