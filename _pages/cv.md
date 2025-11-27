@@ -30,9 +30,9 @@ Skills
   * [Adversarial AI](https://github.com/KevinG396/Adversarial_AI)
   * Large-Scale Optimization
 * High Performance Computing
-  * [Computer System Architecture](https://github.com/KevinG396/Architecture-Sim-with-gem5)
+  * [System Architecture](https://github.com/KevinG396/Architecture-Sim-with-gem5)
   * Sparse Matrix Computation
-  * [Multithreaded Parallel Computing](https://ieeexplore.ieee.org/document/11105982)
+  * [Parallel Computing](https://ieeexplore.ieee.org/document/11105982)
   * Docker
 * Data Engineering
   * Apache Airflow
