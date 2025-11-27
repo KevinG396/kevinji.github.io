@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * Lenovo Research, 2022 ~ 2023
-  * Computer Vision for Industry
-  * ML Ops
+  * Computer Vision
+  * Machine Learning Operations (MLOps)
 
 Skills
 ======
