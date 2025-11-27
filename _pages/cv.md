@@ -26,7 +26,7 @@ Skills
 * Machine Learning
   * Machine Learning and Deep Learning
   * Computer Vision
-  * [Stochastic Process & Diffusion Model](https://github.com/KevinG396/EM_PTDM)
+  * [Stochastic Process and Diffusion Model](https://github.com/KevinG396/EM_PTDM)
   * [Adversarial AI](https://github.com/KevinG396/Adversarial_AI)
   * Large-Scale Optimization
 * High Performance Computing
