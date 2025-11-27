@@ -24,7 +24,7 @@ Work experience
 Skills
 ======
 * Machine Learning
-  * [Machine Learning and Deep Learning](https://github.com/KevinG396/DeepLearning_PyTorch)
+  * Machine Learning and Deep Learning
   * Computer Vision
   * [Stochastic Process and Diffusion Model](https://github.com/KevinG396/EM_PTDM)
   * [Adversarial AI](https://github.com/KevinG396/Adversarial_AI)
