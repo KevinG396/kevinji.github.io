@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Binglin (Kevin) Ji, a second-year master's student in `Electrical Engineering` and `Computer Engineering` at [Washington University in St. Louis](https://washu.edu). I'm currently a member of [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advised by Prof. [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/). My research interests lie in **Machine Learning** (Diffusion Model) and **Parallel Computing** (AI Inference Acceleration), as well as the intersection of these two areas. 
+I'm Binglin (Kevin) Ji, a second-year master's student in `Electrical Engineering` and `Computer Engineering` at [Washington University in St. Louis](https://washu.edu). I'm currently a member of [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advised by Prof. [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/). Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html), Shanghai, China, where I developed deep learning algorithms to solve computer vision problems in industrial scenarios and built container-based systems to optimize machine learning workflows.
 
-Before coming to WashU, I worked at [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html), Shanghai, China, where I developed deep learning algorithms to solve computer vision problems in industrial scenarios and built container-based systems to optimize machine learning workflows.
+**Research:** My research interests lie in **Machine Learning** (Diffusion Model) and **Parallel Computing** (AI Inference Acceleration), as well as the intersection of these two areas.
 
 
 ## 🔍 Online Active Target Discovery with Generative Model
