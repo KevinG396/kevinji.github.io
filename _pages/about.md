@@ -14,13 +14,15 @@ My research interests lie in [***Machine Learning***](https://neurips.cc/virtual
 
 # Selected Publications
 
-[**Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory**](https://arxiv.org/abs/2510.16676)
+### [**Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory**](https://arxiv.org/abs/2510.16676)
+
 *In the 39th Neural Information Processing Systems (NeurIPS)*, 2025, San Diego, Dec 2025
 
-[**Online Feedback Efficient Active Target Discovery in Partially Observable Environments**](https://www.arxiv.org/abs/2505.06535)
+### [**Online Feedback Efficient Active Target Discovery in Partially Observable Environments**](https://www.arxiv.org/abs/2505.06535)
+
 *In the 39th Neural Information Processing Systems (NeurIPS)*, 2025, San Diego, Dec 2025
 
-[**FGI: Fast GNN Inference on Multi-Core Systems**](https://ieeexplore.ieee.org/document/11105982)
+### [**FGI: Fast GNN Inference on Multi-Core Systems**](https://ieeexplore.ieee.org/document/11105982)
 
 *In the 39th IEEE International Parallel & Distributed Processing Symposium Workshops (IPDPSW)*, 2025, Milano, June 2025
 
