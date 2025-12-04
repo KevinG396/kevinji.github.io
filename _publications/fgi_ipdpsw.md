@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-fgi-ipdpsw
 excerpt: ""
 date: 2025-05-29
-venue: "*the 39th IEEE International Parallel & Distributed Processing Symposium Workshops (IPDPSW)*, Milano, June"
+venue: "the 39th IEEE International Parallel & Distributed Processing Symposium Workshops (IPDPSW), Milano, June"
 paperurl: "https://ieeexplore.ieee.org/document/11105982"
 
 ---
