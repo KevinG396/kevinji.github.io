@@ -20,7 +20,7 @@ Work experience
 * Lenovo Research, 2022 ~ 2023
   * Computer Vision
   * Machine Learning Operations (MLOps)
-* Chinese Academy of Sciences, 2022 ~ 2023
+* Chinese Academy of Sciences, 2020 ~ 2021
   * Computer Vision
   * Deep Learning
   * Video Processing
