@@ -57,5 +57,4 @@ Service and leadership
 
 Past Projects
 ======
-* Deep Learning–based Video Segmentation (National Laboratory of Pattern Recognition, Chinese Academy of Sciences)
 * 2D/3D Human Pose Estimation (Xidian University)
