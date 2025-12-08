@@ -40,7 +40,7 @@ Skills
   * Docker
 * Data Engineering
   * Apache Airflow
-  * Apache Spark
+  * [Apache Spark](https://github.com/KevinG396/Spark-CTR-Prediction-System)
   * Distributed Database (Snowflake)
 
 Publications
