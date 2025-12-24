@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Washington University in St. Louis
-  * M.S. in **Computer Engineering**, 01/2024 ~ 12/2025
-  * M.S. in **Electrical Engineering**, 09/2023 ~ 06/2025
+  * M.S. in **Electrical Engineering**,  GPA(4.00/4.00),  09/2023 ~ 06/2025
+  * M.S. in **Computer   Engineering**,  GPA(3.83/4.00),  01/2024 ~ 12/2025
 
 Work experience
 ======
