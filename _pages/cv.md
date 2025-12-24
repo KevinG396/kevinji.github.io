@@ -13,7 +13,7 @@ Education
 ======
 * Washington University in St. Louis
   * M.S. in **Electrical Engineering**,  GPA(4.00/4.00)
-  * M.S. in **Computer   Engineering**,  GPA(3.83/4.00)
+  * M.S. in **Computer  Engineering**,  GPA(3.83/4.00)
 
 Work experience
 ======
