@@ -10,7 +10,7 @@ redirect_from:
 I'm Binglin (Kevin) Ji, a graduated master's student in `Electrical Engineering` and `Computer Engineering` at [Washington University in St. Louis](https://washu.edu). I'm currently a member of [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advised by Prof. [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/). Before coming to WashU, I worked at National Laboratory of Pattern Recognition, [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn) and [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html).
 
 # Research
-My research interests lie in ***Probabilistic Inference***, [***Machine Learning***](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332) (Generative Modeling), [***Parallel Computing***](https://ieeexplore.ieee.org/document/11105982) (AI Inference Acceleration) and Probabilistic Sampling.
+My research interests lie in ***Probabilistic Inference***, [***Machine Learning***](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332), [***Parallel Computing***](https://ieeexplore.ieee.org/document/11105982).
 
 
 ## 🔍 Online Active Target Discovery with Generative Model
