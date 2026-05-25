@@ -15,7 +15,7 @@ My research interests lie in ***Probabilistic Inference***, [***Machine Learning
 
 ## 🔍 Online Active Target Discovery with Generative Model
 
-Strategic sampling within a limited sampling budget from unobserved regions is essential in various scientific and engineering domains. We model this problem as Active Target Discovery(*ATD*) and introduce novel frameworks that leverage diffusion dynamics to solve *ATD* problems. (*Key Words: Diffusion Models, Tweedie's Estimate, Doob's h-transform.*)
+Strategic sampling within a limited sampling budget from unobserved regions is essential in various scientific and engineering domains. We model this problem as Active Target Discovery(*ATD*) and introduce novel frameworks that leverage diffusion dynamics to solve *ATD* problems. *Key Words: Diffusion Models, Tweedie's Estimate, Doob's h-transform.*
 
 ### Active Target Discovery under Uninformative Prior  
 
@@ -34,7 +34,7 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 
 ## ⚙️ Optimizing GCN Inference on Multi-Core Systems
 
-(*Key Words: Graph Neural Networks, Sparse Matrix, Multi-threaded Programming, Computer Architecture.*)
+*Key Words: Graph Neural Networks, Sparse Matrix, Multi-threaded Programming, Computer Architecture.*
 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/FGI-Fast-GNN-Inference-on-Multi-Core-Systems)  Existing standard GNN libraries face challenges in performance and scalability on modern multi-core systems, especially for large graphs (more than 100,000 vertices) with heavy embeddings. We optimized GCN inference with different parallel strategies according to the graph properties, considering the design trends of multi-core architectures. As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend. More details in our paper: [**FGI: Fast GNN Inference on Multi-Core Systems**](https://sbs.wustl.edu/pubs/jzc25.pdf) ***(IPDPS 2025 Workshops)*** 🚀
 
