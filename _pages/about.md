@@ -10,7 +10,7 @@ redirect_from:
 I'm Binglin (Kevin) Ji, a graduated master's student in `Electrical Engineering` and `Computer Engineering` at [Washington University in St. Louis](https://washu.edu). I'm currently a member of [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advised by Prof. [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/). Before coming to WashU, I worked at National Laboratory of Pattern Recognition, [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn) and [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html).
 
 # Research
-My research interests lie in ***Probabilistic Inference***, [***Generative Modeling***](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332), [***Parallel Computing***](https://ieeexplore.ieee.org/document/11105982).
+My research interests lie in ***Probabilistic Inference***, [***Generative Modeling***](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332), [***AI Inference***](https://ieeexplore.ieee.org/document/11105982).
 
 
 ## 🔍 Online Active Target Discovery with Diffusion Model
@@ -32,7 +32,7 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 <p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/diffatd.png" width="75%"> </p>
 
 
-## ⚙️ Optimizing GCN Inference on Multi-Core Systems
+## ⚙️ Systems Efficiency of AI Inference
 
 *Key Words: Graph Neural Networks, Sparse Matrix, Multi-threaded Programming, Computer Architecture.*
 
