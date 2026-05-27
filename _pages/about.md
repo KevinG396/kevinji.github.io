@@ -19,7 +19,7 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 
 ### Active Target Discovery under Uninformative Prior  
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we introduce *EM-PTDM* to solve the online feedback *ATD* problem. More details in our paper: [**Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory**](https://arxiv.org/abs/2510.16676) ***(NeurIPS 2025)*** 🚀
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we leverage *Doob's h-transform* and introduce *EM-PTDM* to solve the online feedback *ATD* problem. More details in our paper: [**Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory**](https://arxiv.org/abs/2510.16676) ***(NeurIPS 2025)*** 🚀
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/emptdm.png" width="80%"> </p>
