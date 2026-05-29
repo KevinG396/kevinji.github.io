@@ -15,6 +15,8 @@ My research goal is to design **probabilistic AI models** and **sampling algorit
 - [**Generative Modelin**](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332)
 - [**AI Inference**](https://ieeexplore.ieee.org/document/11105982)
 
+I am always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**.
+
 
 ## 🔍 Online Active Discovery with Diffusion Model
 
