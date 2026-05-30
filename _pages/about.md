@@ -11,8 +11,8 @@ I'm Binglin (Kevin) Ji, a graduated master's student in `Electrical Engineering`
 
 # Research
 My research goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently adress high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
-- **Probabilistic Inference and Applied Stochastic Process**
-  - MCTS for Search, Lévy Process
+- **Probabilistic Inference**
+  - Sequential Monte Carlo, MCTS for Search, Applied Stochastic Process
 - **Generative Modeling**
   - [Diffusion Model](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694), [EM-Adaptation](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332)
 - **Parallel AI Inference**
