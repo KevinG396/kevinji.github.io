@@ -13,15 +13,15 @@ I was a member of [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advi
 
 # Research
 My research goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently address high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
-- **🎯 Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion, Flow Matching, Consistency Models, Flow Maps), variational inference, distribution shift.
+**🎯 Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion, Flow Matching, Consistency Models, Flow Maps), variational inference, distribution shift.
   - **Controlled Transport** (Variational Inference, Optimal Control on Flow Model)
   - **Sampling** (SDE, Feynman-Kac Corrector)
   - **MCTS for Search** (MCTS, Flow/Consistency Model)
   - **Applied Stochastic Process** (Lévy Process)
-- **Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making.
+**Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making.
   - [**Diffusion Model**](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694) (Tweedie's Estimate, Sequential Decision Making)
   - [**EM-Adaptation**](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332) (Doob's h-transform, EM-Adaptation)
-- **Parallel AI Inference**: Accelerating AI computation (Neural Networks and Graph structures).
+**Parallel AI Inference**: Accelerating AI computation (Neural Networks and Graph structures).
   - **Matrix Computation** (Parallel Computing, GNN, GEMM)
   - [**Graph Processing**](https://ieeexplore.ieee.org/document/11105982) (Graph Structure Operation)
 
