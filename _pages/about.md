@@ -11,17 +11,17 @@ I'm Binglin (Kevin) Ji, a graduated master's student in `Electrical Engineering`
 
 # Research
 My research goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently address high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
-- **Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion, Flow Matching, Consistency Models, Flow Maps), distribution shift.
-  - ***Controlled Transport*** (Variational Inference, Optimal Control on Flow Model)
-  - ***Sampling*** (SDE, Feynman-Kac Corrector, Particle Filter)
-  - ***MCTS for Search*** (Soft Bellman Equation, Flow/Consistency Model)
-  - ***Applied Stochastic Process*** (Lévy Process, Lévy Diffusion Model)
+- **Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion, Flow Matching, Consistency Models, Flow Maps), variational inference, distribution shift.
+  - **Controlled Transport** (Variational Inference, Optimal Control on Flow Model)
+  - **Sampling** (SDE, Feynman-Kac Corrector, Particle Filter)
+  - **MCTS for Search** (Soft Bellman Equation, Flow/Consistency Model)
+  - **Applied Stochastic Process** (Lévy Process, Lévy Diffusion Model)
 - **Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making.
-  - [***Diffusion Model***](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694) (Tweedie's Estimation,Sequential Decision Making)
-  - [***EM-Adaptation***](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332) (Doob's h-transform, EM-Adaptation)
+  - [**Diffusion Model**](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694) (Tweedie's Estimation,Sequential Decision Making)
+  - [**EM-Adaptation**](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332) (Doob's h-transform, EM-Adaptation)
 - **Parallel AI Inference**: Accelerating AI computation (Neural Networks and Graph structures).
-  - ***Matrix Computation*** (Parallel Computing, GNN, GEMM)
-  - [***Graph Processing***](https://ieeexplore.ieee.org/document/11105982) (Graph Structure Operation)
+  - **Matrix Computation** (Parallel Computing, GNN, GEMM)
+  - [**Graph Processing**](https://ieeexplore.ieee.org/document/11105982) (Graph Structure Operation)
 
 😃 I am always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**.
 
