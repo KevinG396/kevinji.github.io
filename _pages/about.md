@@ -34,6 +34,7 @@ Accelerating AI computation (Neural Networks and Graph structures).
 😃 I am always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**.
 
 
+# Projects
 ## 🔍 Online Active Discovery with Diffusion Model
 
 Strategic sampling within a limited sampling budget from unobserved regions is essential in various scientific and engineering domains. We model this problem as Active Target Discovery(*ATD*) and introduce novel frameworks that leverage diffusion dynamics to solve *ATD* problems. *Key Words: Diffusion Models, Tweedie's Estimate, Doob's h-transform.*
