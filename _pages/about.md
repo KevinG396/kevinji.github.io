@@ -19,7 +19,7 @@ My research goal is to design **probabilistic AI models** and **sampling algorit
   - **MCTS for Search** (MCTS, Flow/Consistency Model)
   - **Applied Stochastic Process** (Lévy Process)
 - **Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making.
-  - [**Diffusion Model**](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694) (Tweedie's Estimation,Sequential Decision Making)
+  - [**Diffusion Model**](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694) (Tweedie's Estimate, Sequential Decision Making)
   - [**EM-Adaptation**](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332) (Doob's h-transform, EM-Adaptation)
 - **Parallel AI Inference**: Accelerating AI computation (Neural Networks and Graph structures).
   - **Matrix Computation** (Parallel Computing, GNN, GEMM)
