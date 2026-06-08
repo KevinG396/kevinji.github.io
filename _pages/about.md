@@ -19,7 +19,7 @@ My research goal is to design **probabilistic AI models** and **sampling algorit
 - **Generative Modeling**: Probabilistic generative models, adaptation methods and their applications in active discovery/decision making.
   - [Diffusion Model](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694) (Tweedie's Estimation,Sequential Decision Making)
   - [EM-Adaptation](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332) (Doob's h-transform, EM-Adaptation)
-- **Parallel AI Inference**: Accelerating AI computation(Neural Networks and Graph structures).
+- **Parallel AI Inference**: Accelerating AI computation (Neural Networks and Graph structures).
   - Matrix Computation (Parallel Computing, GNN, GEMM)
   - [Graph Processing](https://ieeexplore.ieee.org/document/11105982) (Graph Structure Operation)
 
