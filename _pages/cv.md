@@ -19,7 +19,7 @@ Skills
 ======
 * **Probabilistic Inference**: Probability and Stochastic Process, Variational Inference, Optimal Control, Sequential Monte Carlo
 * **Machine Learning**: Machine Learning and Deep Learning, [Diffusion Model](https://github.com/KevinG396/EM_PTDM), [Adversarial AI](https://github.com/KevinG396/Adversarial_AI), Large-Scale Optimization
-* **High Performance Computing**: [System Architecture](https://github.com/KevinG396/Architecture-Sim-with-gem5), Sparse Matrix Computation, [Parallel Computing](https://ieeexplore.ieee.org/document/11105982), Docker
+* **High Performance Computing**: [Graph Processing](https://ieeexplore.ieee.org/document/11105982), Sparse Matrix Computation, [System Architecture](https://github.com/KevinG396/Architecture-Sim-with-gem5), Docker
 * [**Data Engineering**](https://github.com/KevinG396/Spark-CTR-Prediction-System)
 
 Publications
