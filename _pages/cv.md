@@ -15,7 +15,7 @@ Education
   * M.S. in **Electrical Engineering**,  GPA(4.00/4.00)
   * M.S. in **Computer  Engineering**,  GPA(3.83/4.00)
 * Xidian University
-  * B.E. in **Electronics and Information Engineering**
+  * B.E. in **Electronic and Information Engineering**
 
 Skills
 ======
