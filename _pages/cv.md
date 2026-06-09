@@ -15,6 +15,26 @@ Education
   * M.S. in **Electrical Engineering**,  GPA(4.00/4.00)
   * M.S. in **Computer  Engineering**,  GPA(3.83/4.00)
 
+Skills
+======
+* **Probability Inference**: Probability and Stochastic Process, Variational Inference, Optimal Control, Sequential Monte Carlo
+* **Machine Learning**: Machine Learning and Deep Learning, Computer Vision, [Diffusion Model](https://github.com/KevinG396/EM_PTDM), [Adversarial AI](https://github.com/KevinG396/Adversarial_AI), Large-Scale Optimization
+* **High Performance Computing**: [System Architecture](https://github.com/KevinG396/Architecture-Sim-with-gem5), Sparse Matrix Computation, [Parallel Computing](https://ieeexplore.ieee.org/document/11105982), Docker
+* **Data Engineering**: Apache Airflow, [Apache Spark](https://github.com/KevinG396/Spark-CTR-Prediction-System), Distributed Database (Snowflake)
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+Service and leadership
+======
+* Reviewer of NeurIPS 2026
+* Subreviewer of NeurIPS 2024
+
+
 Work experience
 ======
 * Lenovo Research, 2022 ~ 2023
@@ -25,34 +45,6 @@ Work experience
   * Deep Learning
   * Video Processing
 
-Skills
-======
-* Machine Learning
-  * Machine Learning and Deep Learning
-  * Computer Vision
-  * [Diffusion Model](https://github.com/KevinG396/EM_PTDM)
-  * [Adversarial AI](https://github.com/KevinG396/Adversarial_AI)
-  * Large-Scale Optimization
-* High Performance Computing
-  * [System Architecture](https://github.com/KevinG396/Architecture-Sim-with-gem5)
-  * Sparse Matrix Computation
-  * [Parallel Computing](https://ieeexplore.ieee.org/document/11105982)
-  * Docker
-* Data Engineering
-  * Apache Airflow
-  * [Apache Spark](https://github.com/KevinG396/Spark-CTR-Prediction-System)
-  * Distributed Database (Snowflake)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-  
-Service and leadership
-======
-* Subreviewer of NeurIPS 2024
 
 
 Past Projects
