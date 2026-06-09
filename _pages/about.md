@@ -15,7 +15,7 @@ I was a member of [Stream Based Supercomputing Lab](https://sbs.wustl.edu), advi
 My research goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently address high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
 
 **🎯 Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion, Flow Matching, Consistency Models, Flow Maps), variational inference, distribution shift.
-  - **Controlled Transport** ($Variational Inference, Optimal Control on Flow Model$)
+  - **Controlled Transport** (Variational Inference, Optimal Control on Flow Model)
   - **Sampling** (SDE, Feynman-Kac Corrector)
   - **MCTS for Search** (MCTS, Flow/Consistency Model)
   - **Applied Stochastic Process** (Lévy Process)
