@@ -36,7 +36,7 @@ My research goal is to design **probabilistic AI models** and **sampling algorit
 ## 🌟 Probabilistic Inference and Sampling
 
 ### Interaction, Control, and Sampling in Particle Systems
-We propose Sequentially-Controlled Interactive Multi-Particle Flow-Maps (IMPFM), a framework for sample-efficient online feedback-driven search. IMPFM introduces a principled and efficient posterior sample sharing mechanism across particles powered by flow maps, progressively transports a group of interactive particles toward the target distribution, maintaining the broad coverage essential for heterogeneous preference alignment.
+We propose Sequentially-Controlled Interactive Multi-Particle Flow-Maps (IMPFM), a framework for sample-efficient online feedback-driven search. IMPFM introduces a principled, efficient and and variationally grounded posterior sample sharing mechanism across particles powered by flow maps, progressively transports a group of interactive particles toward the target distribution, maintaining the broad coverage essential for heterogeneous preference alignment.
 
 <p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/images/impfm.png" width="95%"> </p>
 
