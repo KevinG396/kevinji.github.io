@@ -38,7 +38,7 @@ My research goal is to design **probabilistic AI models** and **sampling algorit
 ### Interaction, Controlling and Sampling in Particle Systems
 We propose Sequentially-Controlled Interactive Multi-Particle Flow-Maps (IMPFM), a framework for sample-efficient online feedback-driven search. IMPFM introduces a principled and efficient posterior sample sharing mechanism across particles powered by flow maps, progressively transports a group of interactive particles toward the target distribution, maintaining the broad coverage essential for heterogeneous preference alignment.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/images/impfm.png" width="90%"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/images/impfm.png" width="95%"> </p>
 
 ## 🔍 Online Active Discovery with Diffusion Model
 
@@ -49,14 +49,14 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With weak prior, we leverage *Doob's h-transform* and introduce *EM-PTDM* to solve the online feedback *ATD* problem. More details: [**Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory**](https://arxiv.org/abs/2510.16676) ***(NeurIPS 2025)*** 🚀
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/emptdm.png" width="90%"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/emptdm.png" width="95%"> </p>
 
 ### Diffusion-guided Active Target Discovery
 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD) With prior (domain knowledge), we introduce *DiffATD* to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details: [**Online Feedback Efficient Active Target Discovery in Partially Observable Environments**](https://www.arxiv.org/abs/2505.06535) ***(NeurIPS 2025)*** 🚀 
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/diffatd.png" width="80%"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/diffatd.png" width="85%"> </p>
 
 
 ## ⚙️ Parallel AI Inference
