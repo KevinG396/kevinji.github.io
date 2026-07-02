@@ -32,20 +32,28 @@ My research goal is to design **probabilistic AI models** and **sampling algorit
 
 
 # Projects
+
+## 🌟 Probabilistic Inference and Sampling
+
+### Interaction, Controlling and Sampling in Particle Systems
+We propose Sequentially-Controlled Interactive Multi-Particle Flow-Maps (IMPFM), a framework for sample-efficient online feedback-driven search. IMPFM introduces a principled and efficient posterior sample sharing mechanism across particles powered by flow maps, progressively transports a group of interactive particles toward the target distribution, maintaining the broad coverage essential for heterogeneous preference alignment.
+
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/impfm.png" width="80%"> </p>
+
 ## 🔍 Online Active Discovery with Diffusion Model
 
 Strategic sampling within a limited sampling budget from unobserved regions is essential in various scientific and engineering domains. We model this problem as Active Target Discovery(*ATD*) and introduce novel frameworks that leverage diffusion dynamics to solve *ATD* problems. *Key Words: Diffusion Models, Tweedie's Estimate, Doob's h-transform.*
 
 ### Active Target Discovery under Uninformative Prior  
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With zero domain knowledge, inspired by neuro-science, we leverage *Doob's h-transform* and introduce *EM-PTDM* to solve the online feedback *ATD* problem. More details in our paper: [**Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory**](https://arxiv.org/abs/2510.16676) ***(NeurIPS 2025)*** 🚀
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/EM_PTDM)  With weak prior, we leverage *Doob's h-transform* and introduce *EM-PTDM* to solve the online feedback *ATD* problem. More details: [**Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory**](https://arxiv.org/abs/2510.16676) ***(NeurIPS 2025)*** 🚀
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/emptdm.png" width="80%"> </p>
 
 ### Diffusion-guided Active Target Discovery
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD) With enough domain knowledge data, we first time introduce *DiffATD* to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details in our paper: [**Online Feedback Efficient Active Target Discovery in Partially Observable Environments**](https://www.arxiv.org/abs/2505.06535) ***(NeurIPS 2025)*** 🚀 
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/DiffATD) With prior (domain knowledge), we introduce *DiffATD* to solve Online Feedback Active Target Discovery problem in Partially Observable Environments. More details: [**Online Feedback Efficient Active Target Discovery in Partially Observable Environments**](https://www.arxiv.org/abs/2505.06535) ***(NeurIPS 2025)*** 🚀 
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/diffatd.png" width="75%"> </p>
@@ -55,7 +63,7 @@ Strategic sampling within a limited sampling budget from unobserved regions is e
 
 *Key Words: Graph Neural Networks, Sparse Matrix, Multi-threaded Programming.*
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/FGI-Fast-GNN-Inference-on-Multi-Core-Systems)  Graph structures are widly used in scientific computing and AI applications. Existing graph processing libraries face challenges in performance and scalability, especially for very large graphs (more than 100,000 vertices) with heavy embeddings. We optimized graph processing in GCN inference with different parallel strategies according to the graph properties. As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend. More details in our paper: [**FGI: Fast GNN Inference on Multi-Core Systems**](https://sbs.wustl.edu/pubs/jzc25.pdf) ***(IPDPS 2025 Workshops)*** 🚀
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://github.com/KevinG396/FGI-Fast-GNN-Inference-on-Multi-Core-Systems)  Graph structures are widly used in scientific computing and AI applications. Existing graph processing systems face challenges in performance and scalability, especially for very large graphs (more than 100,000 vertices) with heavy embeddings. We optimized graph processing in GCN inference with different parallel strategies according to the graph properties. As a result, we achieved up to **2.64x** inference speed compared to `DGL v2.4.0` (Deep Graph Library) and **3.36x** compared to `PyG v2.6.1` (PyTorch-Geometric), both of which used `PyTorch v2.3.1` as the backend. More details in our paper: [**FGI: Fast GNN Inference on Multi-Core Systems**](https://sbs.wustl.edu/pubs/jzc25.pdf) ***(IPDPS 2025 Workshops)*** 🚀
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/assets/imgs/fgi.png" width="80%"> </p>
