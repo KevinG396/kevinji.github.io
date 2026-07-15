@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## This page is no longer in use, please check my [current webpage](https://keving396.github.io/binglin.j/).
+
+
+
 Education
 ======
 * Washington University in St. Louis
