@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 ## This page is no longer in use, please check my [current webpage](https://keving396.github.io/binglin.j/).
+## This page is no longer in use, please check my [current webpage](https://keving396.github.io/binglin.j/).
+## This page is no longer in use, please check my [current webpage](https://keving396.github.io/binglin.j/).
+
 
 
 I'm Binglin (Kevin) Ji, a recent master's student in `Electrical Engineering` and `Computer Engineering` from [Washington University in St. Louis](https://washu.edu). My primary research focus is probabilistic inference, particularly the development of principled and efficient inference and sampling algorithms for high-dimensional generative models.
